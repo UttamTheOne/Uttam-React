@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Uttam-React/precache-manifest.fa8c8a7082a5efa9f08161d3a1dcb193.js"
+  "/Uttam-React/precache-manifest.9c2e6b02f75378c434191e11374b66ab.js"
 );
 
 self.addEventListener('message', (event) => {
