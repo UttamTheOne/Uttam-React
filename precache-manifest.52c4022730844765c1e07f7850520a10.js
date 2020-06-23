@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50b1b8fe60eed4e043825ef2d1387e58",
+    "revision": "b4b73be9b86a09f3cced152f605192f3",
     "url": "/Uttam-React/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Uttam-React/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "46f3717370b37bec48d9",
+    "revision": "f247c4a1d09eec9c308c",
     "url": "/Uttam-React/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Uttam-React/static/js/2.c82dcc18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46f3717370b37bec48d9",
-    "url": "/Uttam-React/static/js/main.f18e2d74.chunk.js"
+    "revision": "f247c4a1d09eec9c308c",
+    "url": "/Uttam-React/static/js/main.17fdb1cc.chunk.js"
   },
   {
     "revision": "03c157979f51e436f4df",
