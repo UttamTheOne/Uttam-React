@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Uttam-React/static/css/main.417fe077.chunk.css",
-    "main.js": "/Uttam-React/static/js/main.3b1de4f9.chunk.js",
-    "main.js.map": "/Uttam-React/static/js/main.3b1de4f9.chunk.js.map",
+    "main.css": "/Uttam-React/static/css/main.a787c444.chunk.css",
+    "main.js": "/Uttam-React/static/js/main.9af0f8ca.chunk.js",
+    "main.js.map": "/Uttam-React/static/js/main.9af0f8ca.chunk.js.map",
     "runtime-main.js": "/Uttam-React/static/js/runtime-main.09c63ec4.js",
     "runtime-main.js.map": "/Uttam-React/static/js/runtime-main.09c63ec4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Uttam-React/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.28a36fe3.chunk.js": "/Uttam-React/static/js/2.28a36fe3.chunk.js",
-    "static/js/2.28a36fe3.chunk.js.map": "/Uttam-React/static/js/2.28a36fe3.chunk.js.map",
+    "static/js/2.343dd08f.chunk.js": "/Uttam-React/static/js/2.343dd08f.chunk.js",
+    "static/js/2.343dd08f.chunk.js.map": "/Uttam-React/static/js/2.343dd08f.chunk.js.map",
     "index.html": "/Uttam-React/index.html",
-    "precache-manifest.d9e3048d22353057024165a96e1edd40.js": "/Uttam-React/precache-manifest.d9e3048d22353057024165a96e1edd40.js",
+    "precache-manifest.3980045e9e1823713dc31d41f2876b7a.js": "/Uttam-React/precache-manifest.3980045e9e1823713dc31d41f2876b7a.js",
     "service-worker.js": "/Uttam-React/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Uttam-React/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.417fe077.chunk.css.map": "/Uttam-React/static/css/main.417fe077.chunk.css.map",
-    "static/js/2.28a36fe3.chunk.js.LICENSE.txt": "/Uttam-React/static/js/2.28a36fe3.chunk.js.LICENSE.txt",
+    "static/css/main.a787c444.chunk.css.map": "/Uttam-React/static/css/main.a787c444.chunk.css.map",
+    "static/js/2.343dd08f.chunk.js.LICENSE.txt": "/Uttam-React/static/js/2.343dd08f.chunk.js.LICENSE.txt",
     "static/media/Desktop.png": "/Uttam-React/static/media/Desktop.ab9d9b96.png",
     "static/media/ExtraSmall.jpg": "/Uttam-React/static/media/ExtraSmall.c0f804cf.jpg",
     "static/media/Laptop.jpg": "/Uttam-React/static/media/Laptop.cac2084b.jpg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.09c63ec4.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.28a36fe3.chunk.js",
-    "static/css/main.417fe077.chunk.css",
-    "static/js/main.3b1de4f9.chunk.js"
+    "static/js/2.343dd08f.chunk.js",
+    "static/css/main.a787c444.chunk.css",
+    "static/js/main.9af0f8ca.chunk.js"
   ]
 }
