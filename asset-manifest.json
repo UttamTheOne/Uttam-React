@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Uttam-React/static/css/main.99d72ef2.chunk.css",
-    "main.js": "/Uttam-React/static/js/main.818cbfe0.chunk.js",
-    "main.js.map": "/Uttam-React/static/js/main.818cbfe0.chunk.js.map",
+    "main.js": "/Uttam-React/static/js/main.5029a50f.chunk.js",
+    "main.js.map": "/Uttam-React/static/js/main.5029a50f.chunk.js.map",
     "runtime-main.js": "/Uttam-React/static/js/runtime-main.09c63ec4.js",
     "runtime-main.js.map": "/Uttam-React/static/js/runtime-main.09c63ec4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Uttam-React/static/css/2.af3c1da9.chunk.css",
     "static/js/2.2f95c3b8.chunk.js": "/Uttam-React/static/js/2.2f95c3b8.chunk.js",
     "static/js/2.2f95c3b8.chunk.js.map": "/Uttam-React/static/js/2.2f95c3b8.chunk.js.map",
     "index.html": "/Uttam-React/index.html",
-    "precache-manifest.8bb1a1d3e583abdb22b2768d7579f6fb.js": "/Uttam-React/precache-manifest.8bb1a1d3e583abdb22b2768d7579f6fb.js",
+    "precache-manifest.f26bab07e3b8942cb51772ba8b5b6570.js": "/Uttam-React/precache-manifest.f26bab07e3b8942cb51772ba8b5b6570.js",
     "service-worker.js": "/Uttam-React/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Uttam-React/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.99d72ef2.chunk.css.map": "/Uttam-React/static/css/main.99d72ef2.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.2f95c3b8.chunk.js",
     "static/css/main.99d72ef2.chunk.css",
-    "static/js/main.818cbfe0.chunk.js"
+    "static/js/main.5029a50f.chunk.js"
   ]
 }
