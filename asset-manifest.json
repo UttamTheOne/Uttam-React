@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Uttam-React/static/css/main.99d72ef2.chunk.css",
-    "main.js": "/Uttam-React/static/js/main.5c5c293f.chunk.js",
-    "main.js.map": "/Uttam-React/static/js/main.5c5c293f.chunk.js.map",
+    "main.js": "/Uttam-React/static/js/main.5029a50f.chunk.js",
+    "main.js.map": "/Uttam-React/static/js/main.5029a50f.chunk.js.map",
     "runtime-main.js": "/Uttam-React/static/js/runtime-main.09c63ec4.js",
     "runtime-main.js.map": "/Uttam-React/static/js/runtime-main.09c63ec4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Uttam-React/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.343dd08f.chunk.js": "/Uttam-React/static/js/2.343dd08f.chunk.js",
-    "static/js/2.343dd08f.chunk.js.map": "/Uttam-React/static/js/2.343dd08f.chunk.js.map",
+    "static/js/2.2f95c3b8.chunk.js": "/Uttam-React/static/js/2.2f95c3b8.chunk.js",
+    "static/js/2.2f95c3b8.chunk.js.map": "/Uttam-React/static/js/2.2f95c3b8.chunk.js.map",
     "index.html": "/Uttam-React/index.html",
-    "precache-manifest.7f5523268c2524f6a28fc1f4e3912d49.js": "/Uttam-React/precache-manifest.7f5523268c2524f6a28fc1f4e3912d49.js",
+    "precache-manifest.f26bab07e3b8942cb51772ba8b5b6570.js": "/Uttam-React/precache-manifest.f26bab07e3b8942cb51772ba8b5b6570.js",
     "service-worker.js": "/Uttam-React/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Uttam-React/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.99d72ef2.chunk.css.map": "/Uttam-React/static/css/main.99d72ef2.chunk.css.map",
-    "static/js/2.343dd08f.chunk.js.LICENSE.txt": "/Uttam-React/static/js/2.343dd08f.chunk.js.LICENSE.txt",
+    "static/js/2.2f95c3b8.chunk.js.LICENSE.txt": "/Uttam-React/static/js/2.2f95c3b8.chunk.js.LICENSE.txt",
     "static/media/Desktop.png": "/Uttam-React/static/media/Desktop.ab9d9b96.png",
     "static/media/ExtraSmall.jpg": "/Uttam-React/static/media/ExtraSmall.c0f804cf.jpg",
     "static/media/Laptop.jpg": "/Uttam-React/static/media/Laptop.cac2084b.jpg",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.09c63ec4.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.343dd08f.chunk.js",
+    "static/js/2.2f95c3b8.chunk.js",
     "static/css/main.99d72ef2.chunk.css",
-    "static/js/main.5c5c293f.chunk.js"
+    "static/js/main.5029a50f.chunk.js"
   ]
 }
