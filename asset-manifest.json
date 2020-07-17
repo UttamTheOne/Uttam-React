@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Uttam-React/static/css/main.99d72ef2.chunk.css",
-    "main.js": "/Uttam-React/static/js/main.eaf649ee.chunk.js",
-    "main.js.map": "/Uttam-React/static/js/main.eaf649ee.chunk.js.map",
+    "main.css": "/Uttam-React/static/css/main.a85f3930.chunk.css",
+    "main.js": "/Uttam-React/static/js/main.0a5a0978.chunk.js",
+    "main.js.map": "/Uttam-React/static/js/main.0a5a0978.chunk.js.map",
     "runtime-main.js": "/Uttam-React/static/js/runtime-main.09c63ec4.js",
     "runtime-main.js.map": "/Uttam-React/static/js/runtime-main.09c63ec4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Uttam-React/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a3000898.chunk.js": "/Uttam-React/static/js/2.a3000898.chunk.js",
-    "static/js/2.a3000898.chunk.js.map": "/Uttam-React/static/js/2.a3000898.chunk.js.map",
+    "static/js/2.fad16e13.chunk.js": "/Uttam-React/static/js/2.fad16e13.chunk.js",
+    "static/js/2.fad16e13.chunk.js.map": "/Uttam-React/static/js/2.fad16e13.chunk.js.map",
     "index.html": "/Uttam-React/index.html",
-    "precache-manifest.fc526b2fd5331f63ecfc2767a996b5da.js": "/Uttam-React/precache-manifest.fc526b2fd5331f63ecfc2767a996b5da.js",
+    "precache-manifest.43580a697b9c389825d9572c7b615553.js": "/Uttam-React/precache-manifest.43580a697b9c389825d9572c7b615553.js",
     "service-worker.js": "/Uttam-React/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Uttam-React/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.99d72ef2.chunk.css.map": "/Uttam-React/static/css/main.99d72ef2.chunk.css.map",
-    "static/js/2.a3000898.chunk.js.LICENSE.txt": "/Uttam-React/static/js/2.a3000898.chunk.js.LICENSE.txt"
+    "static/css/main.a85f3930.chunk.css.map": "/Uttam-React/static/css/main.a85f3930.chunk.css.map",
+    "static/js/2.fad16e13.chunk.js.LICENSE.txt": "/Uttam-React/static/js/2.fad16e13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09c63ec4.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a3000898.chunk.js",
-    "static/css/main.99d72ef2.chunk.css",
-    "static/js/main.eaf649ee.chunk.js"
+    "static/js/2.fad16e13.chunk.js",
+    "static/css/main.a85f3930.chunk.css",
+    "static/js/main.0a5a0978.chunk.js"
   ]
 }
